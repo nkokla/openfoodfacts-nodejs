@@ -46,6 +46,6 @@
     "boxy-jsdoc-template": "^2.0.2",
     "husky": "^0.14.3",
     "jsdoc": "^3.6.4",
-    "standard": "^10.0.3"
+    "standard": "^14.3.4"
   }
 }
