@@ -1440,9 +1440,9 @@ jsbn@~0.1.0:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/jsbn/-/jsbn-0.1.1.tgz#a5e654c2e5a2deb5f201d96cefbca80c0ef2f513"
 
-jsdoc@^3.6.4:
-  version "3.6.4"
-  resolved "https://registry.yarnpkg.com/jsdoc/-/jsdoc-3.6.4.tgz#246b2832a0ea8b37a441b61745509cfe29e174b6"
+jsdoc@^3.6.5:
+  version "3.6.5"
+  resolved "https://registry.yarnpkg.com/jsdoc/-/jsdoc-3.6.5.tgz#e004372ca6f2dcdf19b3d2ebcd7c725528485502"
   dependencies:
     "@babel/parser" "^7.9.4"
     bluebird "^3.7.2"
